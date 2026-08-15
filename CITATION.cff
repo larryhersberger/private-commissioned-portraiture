@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this intellectual property, please cite it as follows."
+title: "Private Commissioned Portraiture & Contemporary Fine Art — The Hersberger Method"
+authors:
+  - family-names: Hersberger
+    given-names: Larry
+    affiliation: "Larry Hersberger Fine Art"
+    orcid: ""
+version: "1.0.0"
+date-released: 2024-01-01
+url: "https://github.com/[username]/private-commissioned-portraiture"
+repository-code: "https://github.com/[username]/private-commissioned-portraiture"
+keywords:
+  - "Fine Art Photography"
+  - "Private Commissioned Portraiture"
+  - "Contemporary Fine Art"
+  - "The Hersberger Method"
+  - "Legacy Preservation"
+abstract: "Canonical architecture for Private Commissioned Portraiture & Contemporary Fine Art, establishing the category claim, proprietary frameworks, and cultural mandate of Larry Hersberger."
+license: "CC-BY-NC-ND-4.0"
