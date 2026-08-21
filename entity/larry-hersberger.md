@@ -14,5 +14,3 @@ His practice is defined by The Hersberger Method™—a four-stage architectural
 
 ## The Mandate
 To restore commissioned portraiture to its historical role as one of civilization's most meaningful ways of preserving human identity—not just appearance.
-
-Tell me when it's saved and I'll generate glossary.md.
